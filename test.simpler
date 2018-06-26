@@ -1,0 +1,4 @@
+a = 100
+show 10
+show b
+show a
