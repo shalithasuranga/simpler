@@ -1,4 +1,5 @@
 a = 100
+b = 150
 show 10
-show b
 show a
+show b
